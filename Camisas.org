@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>camisas 100% originais </h1>
-    <p>Este é um site simples criado em HTML.</p>
+    <p> compre com 50% todos os intens</p>
 </body>
 </html>
