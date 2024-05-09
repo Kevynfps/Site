@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>camisas.org</title>
+    <title>style vip</title>
 </head>
 <body>
     <h1>camisas 100% originais </h1>
